@@ -1,5 +1,10 @@
 # 👋 Hi there, I'm Phong!
 
+It highlights my journey as a full-stack and blockchain engineer, featuring projects across crypto trading automation, payment systems, and AI tools.
+Built with modern web technologies and a minimalist UI, it reflects my focus on both engineering precision and product design.
+
+During the 2010s–2020s, I worked in the Internet of Things (IoT) space, creating software that powered smart devices — from prototypes to connected systems used in real environments. It taught me how to merge hardware and software into products that truly improve everyday life.
+
 ![](https://komarev.com/ghpvc/?username=cxphong&color=blue) 
 ![Followers](https://img.shields.io/github/followers/cxphong?label=Followers&style=social)
 
